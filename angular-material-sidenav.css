@@ -31,15 +31,19 @@
     cursor: pointer;
     display: block;
     align-items: inherit;
-    line-height: 40px;
+    line-height: 48px;
     margin: 0;
-    max-height: 40px;
+    max-height: 48px;
     overflow: hidden;
     padding: 0px 16px;
     text-align: left;
     text-decoration: none;
     white-space: normal;
     width: 100%;
+}
+
+.menu .md-button md-icon {
+    margin:auto 16px auto 0
 }
 
 .menu md-select {
