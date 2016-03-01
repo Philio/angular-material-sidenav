@@ -40,6 +40,8 @@
     text-decoration: none;
     white-space: normal;
     width: 100%;
+    font-size: 15px;
+    text-transform: none;
 }
 
 .menu .md-button md-icon {
