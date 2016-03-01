@@ -24,7 +24,7 @@
 
         this.initWithTheme = function (value, name) {
        	    name = name == null ? 'default' : name;
-            _theme = value.theme();
+            _theme = value.theme(name);
             _palettes = value._PALETTES;
         };
 
